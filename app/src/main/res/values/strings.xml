@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GX Tools</string>
+    <string name="overlay_notification_channel">Overlay Crosshair</string>
+    <string name="overlay_notification_text">Crosshair sedang aktif</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_crosshair">Crosshair</string>
+    <string name="nav_presets">Preset</string>
+    <string name="nav_network">Network</string>
+    <string name="nav_display">Display</string>
+    <string name="nav_games">Games</string>
+
+    <string name="enable_overlay">Aktifkan Crosshair</string>
+    <string name="disable_overlay">Matikan Crosshair</string>
+    <string name="grant_overlay_permission">Izinkan Tampil di Atas App Lain</string>
+    <string name="overlay_permission_required">Izin overlay diperlukan untuk menampilkan crosshair</string>
+</resources>
